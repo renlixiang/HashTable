@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1591621294 source:c:\users\86199\projects\hashtable\src\singlelinks.cpp
+	"SingleLinks.h"
+
+1591621294 c:\users\86199\projects\hashtable\include\singlelinks.h
+
+1591627817 source:c:\users\86199\projects\hashtable\src\people.cpp
+	"People.h"
+
+1591629554 c:\users\86199\projects\hashtable\include\people.h
+	<iostream>
+	<string>
+
+1591628698 source:c:\users\86199\projects\hashtable\main.cpp
+	<iostream>
+	"People.h"
+	"man.h"
+
+1591623301 source:c:\users\86199\projects\hashtable\src\hashtable.cpp
+	"HashTable.h"
+
+1591623281 c:\users\86199\projects\hashtable\include\hashtable.h
+	<vector>
+	<string>
+
+1591628180 source:c:\users\86199\projects\hashtable\src\man.cpp
+	"man.h"
+
+1591628308 c:\users\86199\projects\hashtable\include\man.h
+	<People.h>
+
+1591628042 source:c:\users\86199\projects\hashtable\src\woman.cpp
+	"woman.h"
+
+1591627918 c:\users\86199\projects\hashtable\include\woman.h
+	<People.h>
+
